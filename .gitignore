@@ -9,3 +9,5 @@ __pycache__/
 # Ignore virtual environment
 venv/
 
+# Configuration files
+src/config.py
